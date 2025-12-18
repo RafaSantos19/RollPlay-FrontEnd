@@ -1,4 +1,5 @@
 # Roll & Play
+# [Repositório da API] (https://github.com/RafaSantos19/RollPlay-API)
 
 Este projeto é um site tabletop que atua como gerenciador de mesas e fichas de RPG, com um enfoque educacional. Seu objetivo é auxiliar na educação de maneira geral, proporcionando mesas educacionais e outras funcionalidades voltadas para o aprendizado.
 
@@ -29,11 +30,3 @@ O projeto visa integrar elementos educacionais nas campanhas de RPG, permitindo 
 ## 👥 Colaboradores
 
 - [Sérgio Reis](https://github.com/serbiow)
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Para mais informações, acesse o repositório oficial: [Front-End - PI 4º Semestre](https://github.com/KaikeDourado/Front-End---Pi-4-Semestre)
